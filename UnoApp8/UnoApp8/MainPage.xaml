@@ -9,7 +9,7 @@
 
 	<StackPanel HorizontalAlignment="Center"
 				VerticalAlignment="Center">
-		<Slider MaxValue="10000" />
+		<Slider MaxValue="1000" />
 		<TextBlock AutomationProperties.AutomationId="HelloTextBlock"
 					Text="Hello Uno Platform" 
 					HorizontalAlignment="Center" />
